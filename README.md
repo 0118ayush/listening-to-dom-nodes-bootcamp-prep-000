@@ -1,5 +1,4 @@
 # Interacting with the DOM via JavaScript - Codealong
-
 ## Problem Statement
 
 It's been established that we can easily manipulate "nodes" in the DOM, as well as
